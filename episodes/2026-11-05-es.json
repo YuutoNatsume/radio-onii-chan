@@ -1,0 +1,38 @@
+{
+  "format": "monoradio/news-1",
+  "date": "2026-11-05",
+  "lang": "es",
+  "title": "México IA+ y el impulso de Nvidia en el país",
+  "opening": [
+    {"say": "Buenos días, bienvenidos a Radio Onii-chan.", "show": "Buenos días, bienvenidos a Radio Onii-chan."},
+    {"say": "Hoy hablamos del evento México IA+ y del potencial de la inteligencia artificial en el país.", "show": "Hoy hablamos del evento México IA+ y del potencial de la inteligencia artificial en el país."}
+  ],
+  "news": [
+    {
+      "label": "Nvidia en México IA+",
+      "points": ["Más de 230 empresas mexicanas trabajan con Nvidia", "Se anuncian hubs de IA en varios estados"],
+      "lines": [
+        {"say": "Nvidia destacó que México está en el momento correcto para la inteligencia artificial útil.", "show": "Nvidia destacó que México está en el momento correcto para la inteligencia artificial útil."},
+        {"say": "Hay más de 230 empresas y 55 mil investigadores colaborando con la compañía en el país.", "show": "Hay más de 230 empresas y 55 mil investigadores colaborando con la compañía en el país."},
+        {"say": "Además se anunciaron hubs de IA en Querétaro, Guanajuato, Puebla y Ciudad de México.", "show": "Además se anunciaron hubs de IA en Querétaro, Guanajuato, Puebla y Ciudad de México."}
+      ],
+      "url": "https://dplnews.com/llega-ia-util-mexico-momento-correcto-nvidia/"
+    },
+    {
+      "label": "Meta Muse llega a México",
+      "points": ["Nuevo agente de IA de Meta disponible en el país", "Puede realizar tareas y conectarse con aplicaciones"],
+      "lines": [
+        {"say": "Meta lanzó Muse en México, su nuevo agente de inteligencia artificial.", "show": "Meta lanzó Muse en México, su nuevo agente de inteligencia artificial."},
+        {"say": "Este agente puede realizar tareas y conectarse con diferentes aplicaciones y marcas.", "show": "Este agente puede realizar tareas y conectarse con diferentes aplicaciones y marcas."}
+      ],
+      "url": "https://www.milenio.com/temas/inteligencia-artificial"
+    }
+  ],
+  "closing": [
+    {"say": "Eso es todo por hoy en Radio Onii-chan. Nos escuchamos mañana.", "show": "Eso es todo por hoy en Radio Onii-chan. Nos escuchamos mañana."}
+  ],
+  "seconds": 75,
+  "lines_timed": [],
+  "segments": [],
+  "made_at": "2026-11-05T19:00:00Z"
+}
